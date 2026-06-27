@@ -1,0 +1,8 @@
+node_modules/
+timsina_tractor.db
+.env
+*.log
+.DS_Store
+*.sqlite
+*.sqlite3
+/data/
